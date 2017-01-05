@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.168,D:\04 Development\potato\main.cpp=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,D:\04 Development\potato\potato.h=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.083,D:\04 Development\potato\potato.cbproj=D:\ActDev\XE3\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,=D:\ActDev\XE3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,D:\04 Development\potato\main.h=D:\ActDev\XE3\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.848,D:\04 Development\potato\potato_proj.h=D:\04 Development\potato\potato.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,=D:\ActDev\XE3\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,D:\04 Development\potato\pomodoro.cbproj=D:\04 Development\potato\potato.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.168,D:\04 Development\potato\main.dfm=D:\ActDev\XE3\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
