@@ -1,6 +1,6 @@
 # pomodoro-timer
 
-dummy-funny timer for the pomodoro technic
+dummy-funny timer for the pomodoro technique
 
 Small and border-less window with a progress bar and a popup menu. Timer and break time can be set. Have fun!
 
